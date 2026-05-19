@@ -20,6 +20,6 @@ RISC-V tabanlı yongaların önümüzdeki 5 yıl içinde piyasadaki tüm yongala
 ## Kuruluş
 Bu vizyon ve misyon doğrultusunda **RISC-V Alliance Türkiye**, gayriresmi bir RISC-V topluluğu olarak Telegram üzerinden örgütlenmektedir. Topluluğun lideri Tan Siret Akıncı aynı zamanda RISC-V International'da dernek üyesidir ve *RISC-V Advocate* (*RISC-V Savunucusu*) ünvanına sahiptir.
 
-RISC-V Alliance Türkiye'ye üye olmak için halka açık ([Telegram grubuna](https://t.me/riscvturkiye)) girmek ve [katılım formunu](https://forms.gle/W6KDpUoZD3shcc1L8) doldurmak yeterlidir. Üyelikte din, dil, mehzeb, etnik köken ayrımı gözetilmez. Topluluk kuralları, RISC-V International tarafından belirlenen *Code of Conduct* ile aynıdır ve metnin Türkçe çevirisi *[Topluluk Sözleşmesi](https://riscv-turkiye.org/topluluksozlesmesi)* olarak websitemizde mevcuttur.
+RISC-V Alliance Türkiye'ye üye olmak için halka açık [Telegram grubuna](https://t.me/riscvturkiye) girmek ve [katılım formunu](https://forms.gle/W6KDpUoZD3shcc1L8) doldurmak yeterlidir. Üyelikte din, dil, mehzeb, etnik köken ayrımı gözetilmez. Topluluk kuralları, RISC-V International tarafından belirlenen *Code of Conduct* ile aynıdır ve metnin Türkçe çevirisi *[Topluluk Sözleşmesi](https://riscv-turkiye.org/topluluksozlesmesi)* olarak websitemizde mevcuttur.
 
 [Geri dön](./)
