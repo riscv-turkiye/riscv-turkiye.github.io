@@ -9,7 +9,7 @@ layout: default
 
 **RISC-V** (*Reduced Instruction Set Computer*, Okunuş: *RİSK FAYF*), ARM gibi RISC tipi bir ISA’dır, ancak mimarinin kullanımı tamamen *ücretsiz* ve *açıktır*. Bu, herkesin herhangi bir lisans ücreti ödemeden RISC-V ISA’sını referans alarak yonga tasarlayabileceği, mimariyi değiştirebileceği ve açık ya da kapalı kaynak ürünler geliştirebileceği anlamına gelir.
 
-RISC-V tabanlı yongaların önümüzdeki 5 yıl içinde piyasadaki tüm yongaların %30'una yakını kapsayacağı öngörülmektedir. RISC-V halihazırda 32-bit mikrodenetleyici yongaların mimarisinde sıkça kullanılmaktadır ve **RVA23 uyumluluk profili **sayesinde 64-bit işlemci yonga tasarımlarında da kullanımı artmaktadır.
+RISC-V tabanlı yongaların önümüzdeki 5 yıl içinde piyasadaki tüm yongaların %30'una yakını kapsayacağı öngörülmektedir. RISC-V halihazırda 32-bit mikrodenetleyici yongaların mimarisinde sıkça kullanılmaktadır ve **RVA23 uyumluluk profili** sayesinde 64-bit işlemci yonga tasarımlarında da kullanımı her geçen gün artmaktadır.
 
 ## Vizyonumuz
 **RISC-V Alliance Türkiye** olarak kuruluş vizyonumuz şunlardan oluşmaktadır: Açık bir *ISA*  (*Instruction Set Architecture*, *buyruk kümesi mimarisi*) olan **RISC-V** mimarisinin Türkiye'deki tanınırlığının ve kullanımının artması, RISC-V tabanlı yongaların çeşitli sektörlerde kullanılması, başta **RV64** (*64-bit RISC-V mimarisi*) Linux yazılımları olmak üzere RISC-V uyumlu özgür ve açık kaynaklı yazılım geliştiriciliğinin yaygınlaşması, yerel yazılım/donanım geliştiricileri ile küresel RISC-V topluluğu arasında köprü kurulması.
